@@ -7,7 +7,8 @@
   width: 1200px;
   /* background: red; */
   margin: 0 auto;
-  margin-left: 200px;
+  /* margin-left: 92px; */
+  overflow: hidden;
 }
 header {
   background-color: #7f56f5;
@@ -109,7 +110,7 @@ header {
 }
 
 footer {
-  background-color: #473db438;
+  background-color: #b4693d42;
   padding: 100px;
 }
 .contact-item {
